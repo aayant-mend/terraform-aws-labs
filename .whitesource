@@ -1,5 +1,5 @@
 {
-  "settingsInheritedFrom": "aayant-mend/whitesource-config@main",
+  "settingsInheritedFrom": "aayant-mend/whitesource-config@primary",
   "scanSettings": {
     "enableIaC": true
   }
